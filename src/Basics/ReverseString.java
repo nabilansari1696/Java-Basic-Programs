@@ -9,7 +9,7 @@ public class ReverseString {
     
     public static void main(String[] args){
     String str = "ABCD";
-    String rev ;
+    String rev = "";
     
     int len = str.length();
     
